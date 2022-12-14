@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Swift-C++ interop](https://ksemianov.github.io/articles/cpp-interop)
 - [Building a hexagonal grid with the SwiftUI Layout protocol](https://ksemianov.github.io/articles/hexgrid)
 - [Building a wrapping HStack with the SwiftUI Layout protocol](https://ksemianov.github.io/articles/wrapping-hstack)
-- [How to create a Swift Package from a C++ library](https://ksemianov.github.io/articles/cpp2swift)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
