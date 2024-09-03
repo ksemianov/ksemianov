@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a SwiftUI LoadingButtonStyle](https://ksemianov.github.io/articles/loading-button)
 - [Avoiding the Hidden Hazards: Navigating Non-Obvious Pitfalls in ML on iOS](https://ksemianov.github.io/articles/ios-ml)
 - [Getting started with Swift-C++ interop](https://ksemianov.github.io/articles/cpp-interop)
-- [Building a hexagonal grid with the SwiftUI Layout protocol](https://ksemianov.github.io/articles/hexgrid)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
