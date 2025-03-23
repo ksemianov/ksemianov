@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin</h1>
-<h3 align="center">A CTO, Swift enthusiast, and CV-ML engineer</h3>
+<h3 align="center"Co-founder and CTO at Neatsy.ai, Full-stack developer with a passion for ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksemianov&label=Profile%20views&color=0e75b6&style=flat" alt="ksemianov" /> </p>
 
